@@ -1,0 +1,8 @@
+{
+  "name": "launchwing-mvp",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "echo 'No build step required'"
+  }
+}

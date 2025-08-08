@@ -1,0 +1,12 @@
+name = "mvp-992a6b95-0cd5-41f2-84f6-07e0961cef8e"
+account_id = "6ec57290cbb52c27cda0bd089bae05a0"
+main = "functions/index.ts"
+compatibility_date = "2025-08-08"
+account_id = "6ec57290cbb52c27cda0bd089bae05a0"
+
+[[kv_namespaces]]
+binding = "ASSETS"
+id = "97fcf07c0c02448687feee1b57477dd3"
+
+[site]
+bucket = "./public"
